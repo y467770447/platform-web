@@ -1,15 +1,15 @@
 {
   "name": "zxsw-platform",
   "version": "4.4.0",
-  "description": "Dass数据融合中台，基于 Vue3、TypeScript、Element Plus、Pinia 和 Vite 等主流技术",
+  "description": "Dass数据融合中台，基于 Vue3、TypeScript、antv x6、Element Plus、Pinia 和 Vite 等主流技术",
   "author": {
     "name": "pany",
     "email": "939630029@qq.com",
-    "url": "https://github.com/pany-ang"
+    "url": "https://www.psophora.com:449"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/un-pany/v3-admin-vite.git"
+    "url": "https://github.com/y467770447/solar-system/tree/main"
   },
   "type": "module",
   "scripts": {
